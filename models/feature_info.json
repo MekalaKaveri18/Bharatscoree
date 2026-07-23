@@ -1,0 +1,36 @@
+{
+  "cat_cols": [
+    "Occupation",
+    "Credit_Mix",
+    "Payment_Behaviour"
+  ],
+  "num_cols": [
+    "Age",
+    "Annual_Income",
+    "Monthly_Inhand_Salary",
+    "Num_Bank_Accounts",
+    "Num_Credit_Card",
+    "Interest_Rate",
+    "Num_of_Loan",
+    "Delay_from_due_date",
+    "Num_of_Delayed_Payment",
+    "Changed_Credit_Limit",
+    "Num_Credit_Inquiries",
+    "Outstanding_Debt",
+    "Credit_Utilization_Ratio",
+    "Total_EMI_per_month",
+    "Amount_invested_monthly",
+    "Monthly_Balance",
+    "Total_Debt",
+    "Total_Assets",
+    "Debt_to_Asset_Ratio",
+    "Asset_to_Income_Ratio",
+    "NetWorth_to_TotalAssets_Ratio",
+    "credit_history_months",
+    "num_loan_types",
+    "is_min_pay_yes"
+  ],
+  "target": "CIBIL_Score_300_900",
+  "mae": 0.003,
+  "r2": 0.999
+}

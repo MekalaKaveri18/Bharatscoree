@@ -1,0 +1,23 @@
+# Python virtual environments
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+# Node / frontend dependencies
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/.vite/
+
+# Large build artifacts and archives
+**/*.zip
+**/*.tar
+**/*.gz
+**/*.7z
+**/*.rar
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,10 @@
+{
+  "threshold_cibil_raw": 0.003367003,
+  "balanced_accuracy_val": 1.0,
+  "cibil_scale_meta": {
+    "scaled_from": [
+      0.0,
+      1.0
+    ]
+  }
+}

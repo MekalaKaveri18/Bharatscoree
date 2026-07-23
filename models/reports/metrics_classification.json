@@ -1,0 +1,39 @@
+{
+  "task": "classification",
+  "definition": "high-risk = CIBIL < 0.68 (bottom 30.0%)",
+  "Accuracy": 0.9995031055900621,
+  "ROC_AUC": 0.9999961559501457,
+  "Precision": 0.9983291562238931,
+  "Recall": 1.0,
+  "F1": 0.9991638795986622,
+  "class_report": {
+    "0": {
+      "precision": 1.0,
+      "recall": 0.9992932862190813,
+      "f1-score": 0.9996465182043125,
+      "support": 2830.0
+    },
+    "1": {
+      "precision": 0.9983291562238931,
+      "recall": 1.0,
+      "f1-score": 0.9991638795986622,
+      "support": 1195.0
+    },
+    "accuracy": 0.9995031055900621,
+    "macro avg": {
+      "precision": 0.9991645781119465,
+      "recall": 0.9996466431095407,
+      "f1-score": 0.9994051989014874,
+      "support": 4025.0
+    },
+    "weighted avg": {
+      "precision": 0.9995039358229943,
+      "recall": 0.9995031055900621,
+      "f1-score": 0.9995032255002747,
+      "support": 4025.0
+    }
+  },
+  "rows": 20121,
+  "test_size": 0.2,
+  "seed": 42
+}
