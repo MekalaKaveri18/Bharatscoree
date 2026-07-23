@@ -31,3 +31,6 @@ The frontend will usually run at http://localhost:5173.
 ## Notes
 - The legacy backend folder has been removed from the repository root.
 - Use the FastAPI backend from bharatscore_api/ and the React frontend from Frontend/score-lend-borrow-44157/.
+
+## Demo Vedio 
+ https://www.loom.com/share/8f5b6d3fe17b4578a0e494ceffccc327
